@@ -1,10 +1,10 @@
-```markdown
+
 # Custom CLI for AirBnB Clone
 
 ## Description
 
 This project is a fundamental component of the ALX School Full-Stack Software Engineer program, designed as the first phase in developing a comprehensive web application - an AirBnB clone. The main objective of this project is to construct a customized command-line interface (CLI) for efficient data management, alongside establishing the foundational classes for data storage. The system ensures data persistence through JSON serialization/deserialization.
-
+```markdown
 ## Usage
 
 The console provides an interactive environment, akin to a Unix shell, and awaits user input at the prompt (hbnb). It offers support for a range of commands, including:
