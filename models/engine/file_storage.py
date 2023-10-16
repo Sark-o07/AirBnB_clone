@@ -8,6 +8,7 @@ from models.place import Place
 from models.state import State
 from models.user import User
 
+
 class FileStorage():
     """This is the abstracted storage engine.
     Attributes:
