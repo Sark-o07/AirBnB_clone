@@ -8,13 +8,13 @@ body {
     font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
   
-  /* Container style */
-  .container {
-    margin: 30px auto;
-    max-width: 1000px;
-  }
+/* Container style */
+.container {
+  margin: 30px auto;
+  max-width: 1000px;
+}
   
   /* Strong style */
-  strong {
-    font-weight: bold;
-  }
+strong {
+  font-weight: bold;
+}
